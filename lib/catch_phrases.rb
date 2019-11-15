@@ -10,3 +10,7 @@ end
 def phrase
   "It's-a me, Mario!"
 end
+
+def link
+  "It's Dangerous To Go Alone! Take This."
+end
