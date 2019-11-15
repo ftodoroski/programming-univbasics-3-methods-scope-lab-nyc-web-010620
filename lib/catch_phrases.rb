@@ -8,5 +8,5 @@ def toadstool
 end
 
 def phrase
-  'It's-a me, Mario!'
+  "It's-a me, Mario!"
 end
